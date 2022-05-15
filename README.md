@@ -1,2 +1,2 @@
-# discord-spam-script
+# Discord Spam Script
 Solo Discord Spam Script
